@@ -19,7 +19,7 @@ public class Episode extends Media {
 	private String status; //status of series (UNSPECIFIED, SUSPENDED)
 	private Integer seriesYear; // Integer representation of the 1 for Year (#1.08)
 	private Integer episodeNumber; //Integer representation of the 08 for Episode # (#1.08)
-	// Comment by Matt 
+	// This comment was added by Matt
 	/** Episode Constructor Overload - 5 constructors for various parameter inputs
 	
 	/**
