@@ -14,7 +14,7 @@ package MediaDatabase;
 public class Episode extends Media {
 	
 	/**  Episode unique variables in addition Media variables */
-	private String uniqueSeriesTitle;
+	private String uniqueSeriesTitle; //Info on Title and Year to search Episode for common series info
 	private String broadcastInfo; // Info of the broadcast (#1.08)
 	private String status; //status of series (UNSPECIFIED, SUSPENDED)
 	private Integer seriesYear; // Integer representation of the 1 for Year (#1.08)
